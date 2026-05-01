@@ -10,7 +10,9 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
-    # Error handling: prevents the program from crashing if b is 0
-    if b == 0:
-        return "Error: Cannot divide by zero"
-    return a / b
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return "Error: Cannot divide by zero."
+    except TypeError:
+        return "Error: Please provide numerical inputs."
