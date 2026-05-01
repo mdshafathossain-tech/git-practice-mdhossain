@@ -1,7 +1,12 @@
 import datetime
+from utils import add, subtract  # This imports your functions from utils.py
 
-name = "MD Hossain"
+name = "MD Shafat Hossain"
 today = datetime.date.today()
 
 print(f"Hello, my name is {name}")
 print(f"Today's date is {today}")
+
+# Testing the new calculator functions
+print(f"Addition Result: 5 + 10 = {add(5, 10)}")
+print(f"Subtraction Result: 20 - 7 = {subtract(20, 7)}")
