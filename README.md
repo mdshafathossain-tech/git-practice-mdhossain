@@ -5,3 +5,5 @@
 ## Technologies Used
 * Python 3.x
 * Git and GitHub
+
+"For more details, see Project Description."
