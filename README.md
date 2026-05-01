@@ -1,5 +1,5 @@
 # Project Title: Git Practice
-**Author:** MD Hossain  
+**Author:** Md. Shafat Hossain  
 **Description:** A Python-based calculator project designed to demonstrate proficiency in Git version control, branch management, and modular Python programming.
 
 ## Technologies Used
