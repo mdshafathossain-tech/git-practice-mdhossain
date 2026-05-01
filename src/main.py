@@ -10,3 +10,5 @@ print(f"Today's date is {today}")
 # Testing the new calculator functions
 print(f"Addition Result: 5 + 10 = {add(5, 10)}")
 print(f"Subtraction Result: 20 - 7 = {subtract(20, 7)}")
+
+print(f"Subtraction Test: 20 - 5 = {subtract(20, 5)}")
