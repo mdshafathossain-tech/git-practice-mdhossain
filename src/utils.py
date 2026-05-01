@@ -16,3 +16,6 @@ def divide(a, b):
         return "Error: Cannot divide by zero."
     except TypeError:
         return "Error: Please provide numerical inputs."
+    
+def square(a):
+    return a * a
