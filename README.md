@@ -1,9 +1,10 @@
 # Project Title: Git Practice
-**Author:** MD Hossain
-**Description:** This project is a practical exercise to learn Git and GitHub basics, including branching and merging.src/main.py
+**Author:** MD Hossain  
+**Description:** A Python-based calculator project designed to demonstrate proficiency in Git version control, branch management, and modular Python programming.
 
 ## Technologies Used
-* Python 3.x
-* Git and GitHub
+* Python 3.13
+* Git & GitHub
 
-"For more details, see Project Description."
+## Documentation
+For a detailed breakdown of the functions and logic, please see the [Project Description](./docs/project-description.md).
